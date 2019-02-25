@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src="http://g.recordit.co/e6Ke4jRkWi.gif" width=250><br>
 
-<img src="http://g.recordit.co/BwNCl2Otki.gif" width=550><br>
+<img src="http://g.recordit.co/ZdZxffyYmW.gif" width=550><br>
 
 ### Notes
 Trying to get wkwebview to work but I ended up using uiwebview instead.
